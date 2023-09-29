@@ -1,7 +1,6 @@
-A Doodle Jump Game - Our COMP-127 Project
+A Doodle Jump Game 
 
-by Christopher, Hareth, and Sheeraj
-
+by Alharath Ali and Christopher
 This project contains all of the necessary code & graphics 
 for running and playing a Doodle Jump-like game, 
 where you have a character continuously jump 
